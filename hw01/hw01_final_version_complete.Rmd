@@ -2,7 +2,10 @@
 title: "HW01p"
 author: "Bryan Lliguicota"
 date: "February 17, 2018"
-output: pdf_document
+output:
+  word_document: default
+  pdf_document: default
+  html_document: default
 ---
 
 Welcome to HW01p where the "p" stands for "practice" meaning you will use R to solve practical problems. This homework is due 11:59 PM Satuday 2/24/18. 
